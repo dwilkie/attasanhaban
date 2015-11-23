@@ -1,6 +1,6 @@
 # Attasanhaban (អត្តសញ្ញាណប័ណ្ណ)
 
-A ruby library for OCR of Cambodian ID cards
+A ruby library for OCR of Cambodian ID cards. The ultimate goal of this project is to accurately return the ID card number, name and date of birth from different formats of Cambodian national identity cards.
 
 ## Usage
 
